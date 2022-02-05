@@ -88,5 +88,11 @@ https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=2cc6cd4b98774422
 
 ![Git-Cheat-Sheet-2](./assets/images/git-cheat-sheet-2.png)
 
+### Getting a good job is easy Part 1: Get Noticed
+https://imgur.com/gallery/Q89Wo
+
+### OCS Resumes and Cover Letters
+https://ocs.fas.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf?m=1598037165
+
 ## Contribution
 Made by Bootcamp: CU-VIRT-BO-FSF-PT-12-2021-U-B-TTH class
