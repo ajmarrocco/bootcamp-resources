@@ -94,5 +94,13 @@ https://imgur.com/gallery/Q89Wo
 ### OCS Resumes and Cover Letters
 https://ocs.fas.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf?m=1598037165
 
+### Sample Resume Template
+![sample-resume-1](./assets/images/sample-resume-1.png)
+
+![sample-resume-2](./assets/images/sample-resume-2.png)
+
+### ReadMe Syntax
+https://markdown-it.github.io/
+
 ## Contribution
 Made by Bootcamp: CU-VIRT-BO-FSF-PT-12-2021-U-B-TTH class
