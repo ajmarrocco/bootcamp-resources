@@ -102,5 +102,32 @@ https://ocs.fas.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.
 ### ReadMe Syntax
 https://markdown-it.github.io/
 
+## Licensing a repository - GitHub Docs
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+
+## Markdown License badges
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
+## Open Source Licenses by Category
+https://opensource.org/licenses/category
+
+## Postman API Platform | Sign Up for Free
+https://www.postman.com/
+
+## MySQL Installation Guide
+https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
+
+## Customizing the PATH for MySQL Tools
+https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/mysql-installation-windows-path.html
+
+## Getting Information About Databases and Tables
+https://dev.mysql.com/doc/refman/8.0/en/getting-information.html
+
+## Loading Data into a Table
+https://dev.mysql.com/doc/refman/8.0/en/loading-tables.html
+
+## Git Cherry Pick
+https://git-scm.com/docs/git-cherry-pick
+
 ## Contribution
 Made by Bootcamp: CU-VIRT-BO-FSF-PT-12-2021-U-B-TTH class
