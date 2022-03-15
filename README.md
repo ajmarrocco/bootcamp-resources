@@ -129,5 +129,8 @@ https://dev.mysql.com/doc/refman/8.0/en/loading-tables.html
 ## Git Cherry Pick
 https://git-scm.com/docs/git-cherry-pick
 
+## BCS Tools and Resources 
+https://careernetwork.2u.com/tools-and-resources/?utm_medium=BCSMilestones&utm_source=boot_camp
+
 ## Contribution
 Made by Bootcamp: CU-VIRT-BO-FSF-PT-12-2021-U-B-TTH class
