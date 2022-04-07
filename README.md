@@ -42,9 +42,6 @@ https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
 ### Generating a new SSH key and adding it to the ssh-agent - GitHub Docs
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-### Web Accessibility Initiative (WAI)
-https://www.w3.org/WAI/standards-guidelines/wcag/
-
 ## VS Code
 
 ### Running Visual Studio Code on macOS
@@ -69,6 +66,9 @@ https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 ### Open Source Licenses by Category
 https://opensource.org/licenses/category
+
+### Web Accessibility Initiative (WAI)
+https://www.w3.org/WAI/standards-guidelines/wcag/
 
 ### BleepingComputer
 https://www.google.com/amp/s/www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/amp/
@@ -150,7 +150,7 @@ https://jsfiddle.net/
 
 ## Career Advice
 
-### Seminars from 2U Career Network
+### Past Seminars from 2U Career Network
 https://careernetwork.2u.com/all-events/?industry=web-development&event_type=past&event_period=#results
 
 ### BCS Tools and Resources 
@@ -196,6 +196,9 @@ https://flexboxfroggy.com/
 https://apps.apple.com/us/app/grasshopper-learn-to-code/id1354133284
 
 ## Coding Terms
+
+### Hackterms
+https://www.hackterms.com/
 
 ### Scope
 https://developer.mozilla.org/en-US/docs/Glossary/Scope
