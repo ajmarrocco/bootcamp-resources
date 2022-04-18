@@ -265,5 +265,8 @@ https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
 ### Front End Mock Technical Interview | JavaScript, CSS, React, and Algorithms
 https://www.youtube.com/watch?v=vomuCMmoNyE
 
+### Radiolab: NULL on Apple Podcasts
+https://podcasts.apple.com/us/podcast/radiolab/id152249110?i=1000557713323
+
 ## Contribution
 Made by Bootcamp: CU-VIRT-BO-FSF-PT-12-2021-U-B-TTH class
