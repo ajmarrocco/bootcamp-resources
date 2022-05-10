@@ -12,7 +12,7 @@ A list of resources that is useful for Coding Boot Camp.
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [SQL](#sql)
-- [NoSQL](#nosql)
+- [MERN](#MERN)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Demo Sites](#demo-sites)
 - [Career Advice](#career-advice)
@@ -127,13 +127,22 @@ https://gist.github.com/elliette/20ddc4e827efd9d62bc98752e7a62610
 ### Postgres & Sequelize - Associations
 https://www.youtube.com/watch?v=A1dAHmzpcX0
 
-## NoSQL
+## MERN
 
 ### mongodb-community not working on Apple M1
 https://stackoverflow.com/questions/69943888/mongodb-community-not-working-on-apple-m1
 
 ### Troubleshoot Connection Issues
 https://www.mongodb.com/docs/atlas/troubleshoot-connection/#special-characters-in-connection-string-password
+
+### Manifest.json assets file path is prefixed with 'auto'
+https://github.com/shellscape/webpack-manifest-plugin/issues/229
+
+### Using Service Workers
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+
+### Introduction to JSON Web Tokens
+https://jwt.io/introduction
 
 ## Algorithms and Data Structures
 
@@ -163,6 +172,9 @@ https://codepen.io/pen/?editors=0011
 ### JSFidde
 https://jsfiddle.net/
 
+### Interesting documentation on methodology for building and scaling web apps
+https://12factor.net/
+
 ## Career Advice
 
 ### Past Seminars from 2U Career Network
@@ -190,6 +202,9 @@ https://www.businessinsider.com/resume-length-two-pages-or-one-2018-11
 
 ### Top Companies 2022: The 50 best workplaces to grow your career in the U.S.
 https://www.linkedin.com/pulse/top-companies-2022-50-best-workplaces-grow-your-career-us-/
+
+### 2U LinkedIn Premium Career subscription
+https://socialimpact.linkedin.com/en-us/2u/career
 
 ## Practicing Coding Skills
 
