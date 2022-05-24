@@ -147,6 +147,12 @@ https://jwt.io/introduction
 ### Context - React
 https://reactjs.org/docs/context.html#contextprovider
 
+### Hiding API Keys safely using React
+https://www.youtube.com/watch?v=FcwfjMebjTU
+
+### Using GraphQL to join data across Google Places API and Postgres to build location based apps
+https://hasura.io/blog/graphql-join-data-google-places-api-postgres-postgis-location/
+
 ## Algorithms and Data Structures
 
 ### Beginner Data Structures Explained Like You Are 5
